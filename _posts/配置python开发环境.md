@@ -1,0 +1,27 @@
+### 安装Python3
+
+官网下载安装即可，安装时建议勾选`Add Python to PATH`，即可将python写入环境变量。
+
+### 安装Sublime Text3
+
+官网下载安装即可，上一步安装python3时，已将其写入了环境变量，故无需再在sublime text中指定python的路径。
+### 安装Package Control
+Package Control类似于包管理器，可通过其安装和管理其他插件。
+
+菜单栏点击`Tools -> Install Package Control`，安装完成后会自动弹窗提示：Package Control was successfully installed，此时，可在`Preferences`中看到`Package Settings`和`Package Control`选项。
+
+安装完成后，可通过快捷键`Ctrl + Shift + P`调出命令面板。
+
+### 安装其他插件
+
+通过快捷键`Ctrl + Shift + P`调出命令面板，输入install后，可自动匹配到install package选项，选中回车，在列表中选择要安装的插件即可安装。
+
+### 编写第一个python程序
+新建.py文件，写入如下内容：
+``` python
+# This is my first python code
+print("Hello World!")
+```
+保存后，使用`Ctrl + b`即可执行。至此，Python开发环境算是配置好了，可以开始愉快的写代码了。
+
+<end>
