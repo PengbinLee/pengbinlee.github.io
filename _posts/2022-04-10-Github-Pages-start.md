@@ -16,7 +16,7 @@ tags:
 
 ### 选择博客主题
 
-GitHub pages 为我们提供了若干个 Jeklly 主题，使用较为简单，配置步骤参见：[使用主题选择器将主题添加到 GitHub Pages 站点 - GitHub Docs](https://docs.github.com/cn/pages/getting-started-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser)
+GitHub pages 为我们提供了若干个 Jekyll 主题，使用较为简单，配置步骤参见：[使用主题选择器将主题添加到 GitHub Pages 站点 - GitHub Docs](https://docs.github.com/cn/pages/getting-started-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser)
 
 当然，也可以使用自定义的 Jeklly 主题，[Jekyll Themes](http://jekyllthemes.org/) 提供了很多可选的主题，通过如下步骤便进行配置：
 
